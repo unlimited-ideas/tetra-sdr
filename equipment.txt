@@ -1,19 +1,22 @@
-<h2>SDR</h2>
-<h3>Best all-around cheap SDR (NOCElec)</h3>
-<strong>USB 2.0 Digital DVB-T DAB FM RTL2832U FC0013B SDR TV Radio Receiver Stick</strong>
-<i>http://www.amazon.co.uk/NooElec-NESDR-Mini-Compatible-Guaranteed/dp/B00P2UOU72/ref=sr_1_2?ie=UTF8&qid=1452760854&sr=8-2&keywords=sdr</i>
-
-
-<h3>Known working (48.25 up to 863.25MHz)</h3>
-<strong>NooElec NESDR Mini 2 USB RTL-SDR & ADS-B Receiver Set, RTL2832U & R820T2 Tuner, MCX Input. Low-Cost Software Defined Radio Compatible with Many SDR Software Packages. R820T2 Tuner & ESD-Safe Antenna Input, Guaranteed</strong>
-<i>http://www.amazon.co.uk/Digital-DVB-T-RTL2832U-FC0013B-Receiver/dp/B00NOP0P6W/ref=sr_1_12?ie=UTF8&qid=1452760854&sr=8-12&keywords=sdr</i>
-
-<h2>GUIDES</h2>
-<h3>Mr. Carl Laufer</h3>
-<strong>The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio</strong>
-<i>http://www.amazon.co.uk/Hobbyists-Guide-RTL-SDR-Software-Defined/dp/1514716690/ref=sr_1_3?ie=UTF8&qid=1452760854&sr=8-3&keywords=sdr</i>
-
-<h3>Mr. Andrew Barron ZL3DW</h3>
-<strong>An introduction to HF Software Defined Radio: SDR for Amateur Radio Operators</strong>
-<i>http://www.amazon.co.uk/introduction-Software-Defined-Radio-Operators/dp/1500119938/ref=pd_bxgy_14_img_2?ie=UTF8&refRID=0ACWFR83KP16XHZTNT95</i>
-
+<html>
+  <body>
+    <h2>SDR</h2>
+    <h3>Best all-around cheap SDR (NOCElec)</h3>
+    <strong>USB 2.0 Digital DVB-T DAB FM RTL2832U FC0013B SDR TV Radio Receiver Stick</strong>
+    <i>http://www.amazon.co.uk/NooElec-NESDR-Mini-Compatible-Guaranteed/dp/B00P2UOU72/ref=sr_1_2?ie=UTF8&qid=1452760854&sr=8-2&keywords=sdr</i>
+    
+    
+    <h3>Known working (48.25 up to 863.25MHz)</h3>
+    <strong>NooElec NESDR Mini 2 USB RTL-SDR & ADS-B Receiver Set, RTL2832U & R820T2 Tuner, MCX Input. Low-Cost Software Defined Radio Compatible with Many SDR Software Packages. R820T2 Tuner & ESD-Safe Antenna Input, Guaranteed</strong>
+    <i>http://www.amazon.co.uk/Digital-DVB-T-RTL2832U-FC0013B-Receiver/dp/B00NOP0P6W/ref=sr_1_12?ie=UTF8&qid=1452760854&sr=8-12&keywords=sdr</i>
+    
+    <h2>GUIDES</h2>
+    <h3>Mr. Carl Laufer</h3>
+    <strong>The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio</strong>
+    <i>http://www.amazon.co.uk/Hobbyists-Guide-RTL-SDR-Software-Defined/dp/1514716690/ref=sr_1_3?ie=UTF8&qid=1452760854&sr=8-3&keywords=sdr</i>
+    
+    <h3>Mr. Andrew Barron ZL3DW</h3>
+    <strong>An introduction to HF Software Defined Radio: SDR for Amateur Radio Operators</strong>
+    <i>http://www.amazon.co.uk/introduction-Software-Defined-Radio-Operators/dp/1500119938/ref=pd_bxgy_14_img_2?ie=UTF8&refRID=0ACWFR83KP16XHZTNT95</i>
+  </body>
+</html>
