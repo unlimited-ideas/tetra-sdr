@@ -1,5 +1,5 @@
 # Summary
 
-* [LOG](LOG.md)
+* [LOG](log.md)
    * Survey
 
